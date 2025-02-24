@@ -2,7 +2,7 @@
 
 <h3 align="center">
     Hi! My name is Abdallah<br />
-    I'm a ML & DL Student <br />
+    I'm a Machine Learning Student <br />
 </h3>
 
 <div align="center">
