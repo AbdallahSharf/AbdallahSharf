@@ -1,8 +1,8 @@
 <br clear="both">
 
 <h3 align="center">
-    Hi! My name is Kareem<br />
-    I'm a Machine Learning Engineer <br />
+    Hi! My name is Abdallah<br />
+    I'm a ML & DL Student <br />
 </h3>
 
 <div align="center">
