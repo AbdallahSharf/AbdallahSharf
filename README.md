@@ -59,15 +59,15 @@
 </h3>
 
 <div>
-    <a href="www.linkedin.com/in/kareem-mohamed-4a127b24a" target="_blank">
+    <a href="https://www.linkedin.com/in/abdallah-sharf/" target="_blank">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="52" height="40"
             alt="linkedin logo" />
     </a>
-    <a href="mailto:karemsaeed1035@gmail.com" target="_blank">
+    <a href="mailto:thisisyourprogramer@gmail.com" target="_blank">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="52"
             height="40" alt="gmail logo" />
     </a>
-    <a href="https://x.com/karem_saeed24" target="_blank">
+    <a href="https://x.com/mmacode50" target="_blank">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="52" height="40"
             alt="twitter logo" />
     </a>
