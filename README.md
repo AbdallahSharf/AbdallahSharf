@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MAHMOUDELSAYED7&label=Profile%20views&color=0e75b6&style=flat" alt="MAHMOUDELSAYED7" /> </p>
 
 
-- 📫 How to reach me **thisisyourprogramer@gmail.com**
+- 📫 How to reach me **abdallaahsharf00@gmail.com**
 
 <h3 align="left">
     Machine Learning:
@@ -63,7 +63,7 @@
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="52" height="40"
             alt="linkedin logo" />
     </a>
-    <a href="thisisyourprogramer@gmail.com" target="_blank">
+    <a href="abdallaahsharf00@gmail.com" target="_blank">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="52"
             height="40" alt="gmail logo" />
     </a>
